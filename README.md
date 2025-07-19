@@ -2,13 +2,16 @@
 
 ### 💻 Developer | ⚡ Passionate about Full-Stack Web and Native App Development
 
-### | ALso working on AIML and Data Science using Python on my own projects.
+###  ALso working on AIML and Data Science using Python on my own projects.
 
 💻 Check out [My Resume]()
 <br>
+
+## 📱 Connect with me
+
 <div class="flex flex-row gap-2">
-📸 [Instagram](https://instagram.com/iosonoswarup)  
-🔗 [LinkedIn](https://linkedin.com/in/swarup-moulik-ab5a661a4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iosonoswarup)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarup-moulik-ab5a661a4)
 </div>
 <br>
 ### 🛠️ Languages and Tools:
