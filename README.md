@@ -14,7 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarup-moulik-ab5a661a4)
 
 <br>
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,html,css,tailwind,react,express,nodejs,mongodb,vscode,git,github&perline=12" />
