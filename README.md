@@ -9,7 +9,7 @@
 ### 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,python,javascript,mysql,shell,html,css,tailwind,react,express,nodejs,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,html,css,tailwind,react,express,nodejs,mongodb,vscode,git,github&perline=7" />
   </a>
 </p>
 
