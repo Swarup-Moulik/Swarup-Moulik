@@ -25,7 +25,7 @@
 <br><br>
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Swarup-Moulik&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarup-Moulik&theme=gruvbox&show_icons=true&count_private=true&cache_seconds=1800)
 <br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup-Moulik&layout=compact&theme=gruvbox)
 
