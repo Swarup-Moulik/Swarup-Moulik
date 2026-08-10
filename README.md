@@ -1,8 +1,8 @@
 ## Hi there, I am Swarup 👋
 
-### 💻 Developer | ⚡ Passionate about Full-Stack Web and Native App Development
+### 💻 Developer | ⚡ Passionate about Systems Programming and Full-Stack Development
 
-###  ALso working on AIML and Data Science using Python on my own projects.
+###  ALso working on AIML and Data Science using Python and R on my own projects.
 
 💻 Check out [My Resume]()
 <br>
@@ -19,7 +19,7 @@
 <div align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,html,css,tailwind,react,express,nodejs,mongodb,vscode,git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r,javascript,mysql,html,css,tailwind,react,express,nodejs,mongodb,vscode,git,github&perline=9" />
   </a>
 </div>
 <br><br>
